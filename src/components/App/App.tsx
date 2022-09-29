@@ -1,16 +1,19 @@
 import React from 'react';
+import './App.css';
+import { Main } from '../Main/Main';
 
 function App() {
   return (
     <div className="App">
       <header className="header">
-        <h1 className='header__heading'>Goga shop</h1>
+        <a className='header__logo' href='#'>Goga shop</a>
         <div className='header__rightside-menu'>
            <button className='header__rightside-menu_button'>Какая то кнопка</button>
            <button className='header__rightside-menu_button'>Какая то кнопка</button>
            <button className='header__rightside-menu_button'>Какая то кнопка</button>
         </div>
       </header>
+      <Main/>
     </div>
   );
 }

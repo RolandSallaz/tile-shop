@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.main__heading{
+    margin: 100px auto 0 auto;
+    font-size: 48px;
+}
+.product-list{
+    list-style: none;
+    display: flex;
+    margin: 50px auto 0 auto;
+}
+.product-list_item:last-child{
+    margin-right:0;
+}
+.product{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+    margin-right: 20px;
+}
