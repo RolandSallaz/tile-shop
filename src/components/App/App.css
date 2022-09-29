@@ -20,11 +20,13 @@
   font-weight: 700;
   font-size: 30px;
   text-decoration: none;
+  text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 .header__rightside-menu {
   margin: 10px 10px 0 0;
 }
 .header__rightside-menu_button {
+  box-shadow: 0 1px 5px rgb(0, 0, 0);
   background-color: white;
   border-radius: 5px;
   border: 1px solid white;
@@ -39,7 +41,7 @@
   display: flex;
   align-items: center;
 }
-.footer__contacts{
-    margin: 0 0 0 20px;
-    font-size: 18px;
+.footer__contacts {
+  margin: 0 0 0 20px;
+  font-size: 18px;
 }
