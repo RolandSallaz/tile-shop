@@ -11,7 +11,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 1px 5px rgb(0, 0, 0);
+  box-shadow: 0 1px 1px rgb(0, 0, 0);
 }
 .header__logo {
   display: flex;
@@ -20,7 +20,7 @@
   font-weight: 700;
   font-size: 30px;
   text-decoration: none;
-  text-shadow: 2px 2px 2px rgb(0, 0, 0);
+  text-shadow: 1px 1px 7px rgb(0, 0, 0);
 }
 .header__rightside-menu {
   margin: 10px 10px 0 0;
@@ -44,4 +44,5 @@
 .footer__contacts {
   margin: 0 0 0 20px;
   font-size: 18px;
+  text-shadow: 1px 1px 7px rgb(0, 0, 0);
 }
