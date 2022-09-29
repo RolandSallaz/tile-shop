@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/tile-shop/static/css/main.073c9b0a.css",
-    "main.js": "/tile-shop/static/js/main.ecf3b5b1.js",
+    "main.css": "/tile-shop/static/css/main.e6c13ad2.css",
+    "main.js": "/tile-shop/static/js/main.c8897a0c.js",
     "static/js/787.e5a20291.chunk.js": "/tile-shop/static/js/787.e5a20291.chunk.js",
-    "static/media/logo.svg": "/tile-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tile-shop/index.html",
-    "main.073c9b0a.css.map": "/tile-shop/static/css/main.073c9b0a.css.map",
-    "main.ecf3b5b1.js.map": "/tile-shop/static/js/main.ecf3b5b1.js.map",
+    "main.e6c13ad2.css.map": "/tile-shop/static/css/main.e6c13ad2.css.map",
+    "main.c8897a0c.js.map": "/tile-shop/static/js/main.c8897a0c.js.map",
     "787.e5a20291.chunk.js.map": "/tile-shop/static/js/787.e5a20291.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ecf3b5b1.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c8897a0c.js"
   ]
 }
