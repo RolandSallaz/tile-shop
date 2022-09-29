@@ -1,26 +1,37 @@
-.header{
-    background-color: rgb(5,119,85);
-    height: 60px;
-    margin:0;
-    padding-top: 20px;
+.App{
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
+    min-height: 100vh;
 }
-.header__logo{
-    color:white;
-    margin:0 0 0 20px;
-    padding:0;
-    font-weight: 700;
-    font-size: 30px;
-    text-decoration: none;
+.header {
+  background-color: rgb(5, 119, 85);
+  height: 60px;
+  margin: 0;
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
 }
-.header__rightside-menu{
-    margin: 10px 10px 0 0;
+.header__logo {
+  color: white;
+  margin: 0 0 0 20px;
+  padding: 0;
+  font-weight: 700;
+  font-size: 30px;
+  text-decoration: none;
 }
-.header__rightside-menu_button{
-    background-color: white;
-    border-radius: 5px;
-    border: 1px solid white;
-    color:white;
-    margin-right: 20px;
+.header__rightside-menu {
+  margin: 10px 10px 0 0;
+}
+.header__rightside-menu_button {
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid white;
+  color: white;
+  margin-right: 20px;
+}
+.footer{
+    margin: 0;
+    height: 50px;
+    background-color: rgb(5, 119, 85);
 }

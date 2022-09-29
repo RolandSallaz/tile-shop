@@ -2,8 +2,15 @@
     display: flex;
     flex-direction: column;
 }
-.main__heading{
+.products{
+    margin: 100px 0 0;
+    display: flex;
+    flex-direction: column;
+}
+.products__heading{
     margin: 100px auto 0 auto;
+    display: flex;
+    margin: 0 auto;
     font-size: 48px;
 }
 .product-list{
@@ -19,4 +26,11 @@
     height: 300px;
     background-color: black;
     margin-right: 20px;
+}
+.products-description{
+    margin: 100px auto 0 auto;
+    max-width: 800px;
+}
+.products-description__heading{
+    font-size: 20px;
 }
