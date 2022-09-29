@@ -15,7 +15,7 @@ function App() {
       </header>
       <Main/>
       <footer className='footer'>
-
+        <p className='footer__contacts'> Наши контакты: +793129319319 Адресс: пуджовская 8</p>
       </footer>
     </div>
   );

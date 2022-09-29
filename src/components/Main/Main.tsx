@@ -31,10 +31,15 @@ export function Main() {
       <section className="products-description">
         <h2 className="products-description__heading">АССОРТИМЕНТ МАГАЗИНА</h2>
         <p className="products-description__paragraph">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
-          obcaecati laborum nemo hic facilis, recusandae earum voluptatem
-          dolorem illo omnis saepe ullam, vero totam perspiciatis quaerat vel
-          temporibus asperiores ipsum здесь продается многа пицццы!
+          Сегодняшний ассортимент Goga shop — керамическая плитка и
+          керамический гранит, мозаика и декоративные элементы, сантехника,
+          смесители, мебель для ванных комнат, обои: всего более 3000 товарных
+          позиций. Это предложение уникально не только по своему объему, но и по
+          разнообразию комплексных решений, представленных в самых разных стилях
+          и ценовых сегментах. Благодаря своим впечатляющим характеристикам и
+          великолепному дизайну от итальянских тренд-сеттеров Goga shop
+          используется буквально повсюду - от домашних интерьеров до масштабных
+          архитектурных проектов.
         </p>
       </section>
     </main>

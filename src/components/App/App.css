@@ -35,4 +35,11 @@
   margin: 0;
   height: 50px;
   background-color: rgb(5, 119, 85);
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.footer__contacts{
+    margin: 0 0 0 20px;
+    font-size: 18px;
 }
